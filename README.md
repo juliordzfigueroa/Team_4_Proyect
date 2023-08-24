@@ -5,6 +5,7 @@
 
 
 ## Nicolas
-
+Formula to calculate the slope
+$y = mx + b$
 
 ## Julio César
